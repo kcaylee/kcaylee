@@ -25,11 +25,35 @@ Tools & Technologies: Git, Visual Studio, IntelliJ IDEA
 
 Here are a few highlights of my recent work:
 
-Plant Identification Programme: Developed a machine learning model to identify different phenology stages of Aloe Ferox using TensorFlow and convolutional neural networks (CNNs).
+Plant Identification Programme:
+Developed a machine learning model to identify different phenology stages of Aloe Ferox using TensorFlow and convolutional neural networks (CNNs).
 
-Library Management System: Created a desktop application with Java Swing and JavaDB to manage library inventories and borrowing transactions.
+Library Management System:
+A desktop application built with Java Swing and JavaDB to manage library inventories and borrowing transactions, featuring a user-friendly GUI and CRUD functionality.
 
-Secure Web Application: Built a web application using Java Server Pages (JSP), Servlets, and PostgreSQL for secure user login and registration, deployed on Apache Tomcat.
+Wedding Website:
+A simple, elegant HTML and CSS-based wedding website with five pages, covering the couple's story, event details, and RSVP functionality.
+
+CipherForge 🔒:
+A robust and user-friendly password generator built in C#, allowing users to create highly customizable, secure passwords tailored to their needs.
+
+Secure Web Application:
+Built a web application with user authentication functionality using Java Server Pages (JSP), Servlets, and PostgreSQL, deployed on Apache Tomcat.
+
+Favorite Movies Website:
+A basic HTML-based website to showcase a collection of favorite movies, including titles, genres, release years, and brief descriptions.
+
+Spotify Lookup Application:
+A Node.js application that uses Spotify's API to retrieve and display song information based on user input from the terminal.
+
+Multi-Layered Architecture Application:
+A prototype demonstrating a Multi-Layered Architecture using SQL Server, ADO.Net, Microsoft Visual Studio, and Text File Handling, emphasizing modularity and maintainability.
+
+Advanced Accounts Management System:
+A C# console application to manage account numbers with functionalities for registering, sorting, searching, updating, deleting, and viewing accounts.
+
+Age Calculator:
+A JavaScript program that calculates the number of weeks left until the age of 90 based on the user's current age, providing perspective on time remaining.
 
 🎯 Goals
 
