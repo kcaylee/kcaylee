@@ -1,6 +1,6 @@
 👋 Hello, I'm Kaylee!
 
-🎓 3rd-Year Software Engineering Student at Belgium Campus
+🎓 Final-Year Software Engineering Student at Belgium Campus
 💻 Aspiring Full-Stack Developer
 
 🌟 About Me
