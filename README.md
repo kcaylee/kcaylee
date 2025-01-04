@@ -35,4 +35,4 @@ LinkedIn : https://www.linkedin.com/in/kaylee-carstens-015a22237/
 
 Email : carstenskaylee@gmail.com
 
-Feel free to reach out for collaboration, discussions, or any opportunities!
+
