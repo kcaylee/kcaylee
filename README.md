@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-I'm a dedicated and adaptable Software Engineering student with a passion for technology and problem-solving. My journey in computing has equipped me with a solid foundation in programming and software development principles. I thrive in collaborative environments and am always eager to learn and take on new challenges.
+I'm a dedicated and adaptable Software Engineering student with a passion for technology and problem-solving. My journey in computing has equipped me with a solid foundation in programming and software development principles. I thrive in collaborative environments and I am always eager to learn and take on new challenges.
 
 💼 I’m currently working as a **Software Development Intern at First Digital**, where I’m gaining real-world experience in building scalable applications, collaborating with agile teams, and using tools like **Nintex** to automate workflows and streamline business processes.
 
