@@ -1,28 +1,30 @@
 # 👋 Hello, I'm Kaylee!
 
 🎓 **Software Engineering Student @ Belgium Campus**  
-💻 **Full-Stack Developer | Intern at First Digital**
+💻 **Aspiring Full-Stack Developer | Intern at First Digital**
 
 ---
-
 ## 🌟 About Me
 
-I'm a dedicated and adaptable Software Engineering student with a passion for technology and problem-solving. My journey in computing has equipped me with a solid foundation in programming and software development principles. I thrive in collaborative environments and I am always eager to learn and take on new challenges.
+I’m a final-year Bachelor of Computing student at Belgium Campus, specializing in Software Engineering and working toward becoming a full-stack developer. I thrive on turning complex problems into clean, user-focused solutions and I love the learning that comes with it.
 
-💼 I’m currently working as a **Intern Developer at First Digital**, where I’m gaining real-world experience in building scalable applications, collaborating with agile teams, and using tools like **Nintex** to automate workflows and streamline business processes.
+Currently, I’m an **Intern Developer at First Digital**, where I contribute to building scalable applications and automating business processes using tools like **Nintex**. This role has deepened my understanding of both back-end logic and front-end usability, while also strengthening my skills in teamwork, adaptability, and clear communication.
+
+I work confidently with **Java**, **Python**, **C#**, **JavaScript**, and **SQL**, and I enjoy thinking beyond code to how a solution impacts the user. Whether I’m debugging, testing, or enhancing functionality, I aim to write code that adds value and lasts.
 
 ---
-
 ## 🔭 Current Focus  
-- Building deeper expertise in **full-stack development**, with hands-on experience across frontend and backend technologies  
-- Strengthening my skills in **process automation** using **Nintex**
 
-## 🌱 Learning
-- Enhancing my proficiency in **Java**, **C#**, **SQL**, and **Python**  
-- Exploring **web development frameworks** and best practices in **clean code**, **agile development**, and **workflow automation**
+- Building deeper expertise in **full-stack development**, from UI to database  
+- Strengthening my skills in **workflow automation** using **Nintex** (Automation Cloud, K2 Five, Workflow Designer)  
 
 ---
+## 🌱 Currently Learning  
 
+- Enhancing my proficiency in **Java**, **C#**, **SQL**, and **Python**  
+- Exploring **web development frameworks**, **clean architecture**, and **agile methodologies**
+
+---
 ## 🛠️ Technical Skills  
 
 **Languages:**  
@@ -31,11 +33,34 @@ Java • C# • SQL • JavaScript • Python • HTML • CSS
 **Frameworks & Libraries:**  
 ASP.NET • React • Bootstrap  
 
-**Databases:**  
-PostgreSQL • MySQL  
+**Databases & DBMS:**  
+PostgreSQL • MySQL • Database Management Systems (DBMS)  
 
-**Tools & Technologies:**  
-Git • Visual Studio • IntelliJ IDEA • Nintex • Azure DevOps
+**Tools & Platforms:**  
+Git • GitHub • Visual Studio • IntelliJ IDEA • Nintex (Automation Cloud, K2 Five, Workflow Designer) • Azure DevOps • SharePoint  
+
+**Development Practices:**  
+Object-Oriented Programming (OOP) • REST APIs • Agile Methodologies • Full-Stack Development  
+
+**Cloud & Automation:**  
+Azure Cloud Fundamentals • Nintex Workflow Automation • Process Automation
+
+---
+## 💼 Experience  
+
+**Intern Developer**  
+*First Technology Digital* — Hybrid  
+**Jan 2025 – Present**  
+- Developing scalable applications and automating business processes using **Nintex**  
+- Working in a collaborative Agile team to deliver high-quality solutions  
+- Gaining hands-on experience with **REST APIs**, **Object-Oriented Programming (OOP)**, and modern development practices  
+
+**Computer Science Student**  
+*Belgium Campus* — On-site  
+**Jan 2022 – Present**  
+- Final-year student specializing in **Software Engineering**  
+- Building a solid foundation in **REST APIs**, **OOP**, and full-stack development  
+- Participating in academic projects focused on real-world problem-solving and teamwork
 
 ---
 ## 🎯 Goals
@@ -44,9 +69,9 @@ Git • Visual Studio • IntelliJ IDEA • Nintex • Azure DevOps
 - 🚀 Apply and grow my skills in real-world scenarios through impactful internships and collaborative development work  
 - 🤖 Build practical experience in **workflow automation** using Nintex and explore its use in enterprise environments  
 - 🌐 Strengthen my portfolio with **full-stack projects** that demonstrate end-to-end application development  
-- 📚 Continue learning and earning certifications to stay ahead of **industry trends**, tools, and best practices  
+- 📚 Continue learning and earning certifications to stay ahead of **industry trends**, tools, and best practices
+ 
 ---
-
 ## 📫 Connect with Me
 
 LinkedIn : https://www.linkedin.com/in/kaylee-carstens-015a22237/
@@ -54,7 +79,6 @@ LinkedIn : https://www.linkedin.com/in/kaylee-carstens-015a22237/
 Email : carstenskaylee@gmail.com
 
 ---
-
 ✨ *“Strive not to be a success, but rather to be of value.” – Albert Einstein*  
 
 
