@@ -13,37 +13,38 @@ I'm a dedicated and adaptable Software Engineering student with a passion for te
 
 ---
 
-## 🔭 Current Focus
-- Enhancing my skills in full-stack development  
-- Growing my expertise in workflow automation with **Nintex**
+## 🔭 Current Focus  
+- Building deeper expertise in **full-stack development**, with hands-on experience across frontend and backend technologies  
+- Strengthening my skills in **process automation** using **Nintex**
 
 ## 🌱 Learning
-- Deepening my knowledge in **Java**, **C#**, **SQL**, and **web development frameworks**
+- Enhancing my proficiency in **Java**, **C#**, **SQL**, and **Python**  
+- Exploring **web development frameworks** and best practices in **clean code**, **agile development**, and **workflow automation**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills  
 
 **Languages:**  
-Java • C# • SQL • JavaScript • HTML • CSS
+Java • C# • SQL • JavaScript • Python • HTML • CSS  
 
 **Frameworks & Libraries:**  
-ASP.NET • React • Bootstrap
+ASP.NET • React • Bootstrap  
 
 **Databases:**  
-PostgreSQL • MySQL
+PostgreSQL • MySQL  
 
 **Tools & Technologies:**  
 Git • Visual Studio • IntelliJ IDEA • Nintex • Azure DevOps
 
 ---
-
 ## 🎯 Goals
 
 - 💡 Contribute to open-source projects and collaborate with the developer community  
-- 🚀 Apply my skills in real-world scenarios through internships and collaborative work  
-- 📈 Stay updated with the latest industry trends and best practices
-
+- 🚀 Apply and grow my skills in real-world scenarios through impactful internships and collaborative development work  
+- 🤖 Build practical experience in **workflow automation** using Nintex and explore its use in enterprise environments  
+- 🌐 Strengthen my portfolio with **full-stack projects** that demonstrate end-to-end application development  
+- 📚 Continue learning and earning certifications to stay ahead of **industry trends**, tools, and best practices  
 ---
 
 ## 📫 Connect with Me
