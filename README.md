@@ -21,8 +21,10 @@ I work confidently with **Java**, **Python**, **C#**, **JavaScript**, and **SQL*
 ---
 ## 🌱 Currently Learning  
 
-- Enhancing my proficiency in **Java**, **C#**, **SQL**, and **Python**  
-- Exploring **web development frameworks**, **clean architecture**, and **agile methodologies**
+- Enhancing my proficiency in **Java**, **Python**, **C#**, **JavaScript**, and **SQL**  
+- Exploring **web development frameworks** to build dynamic and responsive full-stack applications  
+- Strengthening my understanding of **workflow automation** using **Nintex**
+- Developing practical experience with **Azure fundamentals** and **cloud-based services**
 
 ---
 ## 🛠️ Technical Skills  
@@ -37,7 +39,7 @@ ASP.NET • React • Bootstrap
 PostgreSQL • MySQL • Database Management Systems (DBMS)  
 
 **Tools & Platforms:**  
-Git • GitHub • Visual Studio • IntelliJ IDEA • Nintex (Automation Cloud, K2 Five, Workflow Designer) • Azure DevOps • SharePoint  
+Git • GitHub • Visual Studio • IntelliJ IDEA • Nintex • Azure DevOps • SharePoint  
 
 **Development Practices:**  
 Object-Oriented Programming (OOP) • REST APIs • Agile Methodologies • Full-Stack Development  
