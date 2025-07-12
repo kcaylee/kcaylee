@@ -15,8 +15,8 @@ I work confidently with **Java**, **Python**, **C#**, **JavaScript**, and **SQL*
 ---
 ## 🔭 Current Focus  
 
-- Building deeper expertise in **full-stack development**, from UI to database  
-- Strengthening my skills in **workflow automation** using **Nintex** (Automation Cloud, K2 Five, Workflow Designer)  
+- Building deeper expertise in **full-stack development** 
+- Strengthening my skills in **workflow automation** using **Nintex**
 
 ---
 ## 🌱 Currently Learning  
