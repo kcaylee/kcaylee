@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Kaylee!
 
 🎓 **Software Engineering Student @ Belgium Campus**  
-💻 **Aspiring Full-Stack Developer | Intern at First Digital**
+💻 **Full-Stack Developer | Intern at First Digital**
 
 ---
 ## 🌟 About Me
